@@ -1,6 +1,0 @@
-runner/TestRunner.class
-util/ReadData.class
-page/EligibilityCheckerPage.class
-stepDef/EligibilityCheckerStepDef.class
-base/BasePage.class
-stepDef/Hooks.class
